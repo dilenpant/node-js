@@ -1,0 +1,5 @@
+var cal = require('./cal.js')
+result = cal.add(12,77)
+subs = cal.sub(12,77)
+console.log("The output is " + result)
+console.log("The sub  is " + subs)
